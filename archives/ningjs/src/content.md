@@ -22,12 +22,6 @@
 
 - - -
 
-# Performance Benchmark
-
-### Driven By The Automation
-
-- - -
-
 ![](http://ww3.sinaimg.cn/mw1024/6d308bd9gw1ethj7x0yl0j20bj09mmx6.jpg)
 
 inject [testsuit](https://github.com/startserver/startserver-testsuit)
@@ -110,7 +104,9 @@ Full Runtime Stack
 
 - - -
 
-# Performance
+# Performance Benchmark
+
+### Driven By The Automation
 
 - - -
 
@@ -130,11 +126,11 @@ Full Runtime Stack
 
 - - -
 
-# Macaca Enables Us
+<img src="http://ww4.sinaimg.cn/large/6d308bd9gw1f7gpx2q8w8j20ll0esdh2.jpg" width="80%">
 
 - - -
 
-<img src="http://ww2.sinaimg.cn/large/6d308bd9gw1f6wvikfltvj210z0pe41s.jpg" width="80%">
+# Macaca Enables Us
 
 - - -
 
@@ -215,7 +211,7 @@ chat with robot ...
 # Issues
 
 - Windows Compatibility
-- Android ASC -> UTF7
+- [Android unicode UTF-7 input](https://github.com/macacajs/android-unicode)
 - Android Arm7 Emulator VS raspberrypi
 - iOS Virtualization
 
@@ -242,7 +238,14 @@ chat with robot ...
 
 # Open Source
 
-[alibaba/macaca](https://github.com/alibaba/macaca)
+- [macacajs.github.io](https://macacajs.github.io/macaca)
+- [github.com/alibaba/macaca](https://github.com/alibaba/macaca)
+
+- - -
+
+# Collaborators
+
+<img src="http://ww1.sinaimg.cn/large/6d308bd9gw1f7gq7qxvohj20f004naax.jpg" width="600"/>
 
 - - -
 
@@ -250,9 +253,8 @@ chat with robot ...
 
 - - -
 
-# Ecosystem
+# Community Ecosystem
 
-- [Macaca Site](https://macacajs.github.io/macaca)
 - [yunqi.aliyun.com](https://yunqi.aliyun.com/2016/hangzhou/schedule)
 - [Testerhome.com](https://testerhome.com/topics/node68)
 - Cnodejs.org
